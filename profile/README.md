@@ -1,5 +1,6 @@
 ## Hi there 👋
 # CardamomCosmos&trade;
+# Cardamom Tokens&trade;
 # Cardamom for Azure Cosmos&trade;
 Exciting work going on behind the scenes here! Check back in the coming months as more details will be released.
 
