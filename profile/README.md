@@ -1,3 +1,13 @@
 ## Hi there 👋
-# Cardamom for Azure Cosmos
-Exciting work going on behind the scenes here! Check back occasionally, more will be revealed.
+# CardamomCosmos&trade;
+# Cardamom for Azure Cosmos&trade;
+Exciting work going on behind the scenes here! Check back in the coming months as more details will be released.
+
+
+
+
+
+
+
+
+All work included within this Organization is Copyright &copy; Brian Scott Boyd, 2019-2023.
