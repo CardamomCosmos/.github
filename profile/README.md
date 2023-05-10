@@ -1,4 +1,5 @@
 ## Hi there 👋
+# Cardamom&trade;
 # CardamomCosmos&trade;
 # Cardamom Tokens&trade;
 # Cardamom for Azure Cosmos&trade;
