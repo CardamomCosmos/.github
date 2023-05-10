@@ -10,4 +10,4 @@ Exciting work going on behind the scenes here! Check back in the coming months a
 
 
 
-All work included within this Organization is Copyright &copy; Brian Scott Boyd, 2019-2023.
+All work included within this Organization amd Open Source Project is Copyright &copy; Brian Scott Boyd, 2019-2023.
